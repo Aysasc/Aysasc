@@ -11,6 +11,8 @@
 
 📚 Construindo projetos para evoluir minhas habilidades em programação
 
+🌱 Em constante aprendizado!
+
 <br clear="both">
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=Aysasc&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Isaac github stats"/> 
