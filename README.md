@@ -9,8 +9,6 @@
 
 🚀 Em busca da minha primeira oportunidade de estágio como dev
 
-📚 Construindo projetos para evoluir minhas habilidades em programação
-
 🌱 Em constante aprendizado!
 
 <br clear="both">
