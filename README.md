@@ -2,14 +2,22 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aysasc/Aysasc/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Aysasc/Aysasc/languages-output/languages.svg" height="150" alt="languages graph"  />
+<img align="right" height="154" src="https://i.pinimg.com/originals/6e/42/bc/6e42bcca0c59c9c46f6d1534d23437c4.gif" />
+
+
+🎓 Estudante de Sistemas de Informação e Técnico em Informática
+
+🚀 Em busca da minha primeira oportunidade de estágio como dev
+
+📚 Construindo projetos para evoluir minhas habilidades em programação
+
+<br clear="both">
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=Aysasc&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Isaac github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=Aysasc&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
 </div>
 
 ###
-
-<img align="right" height="154" src="https://i.pinimg.com/originals/6e/42/bc/6e42bcca0c59c9c46f6d1534d23437c4.gif"  />
 
 ###
 
@@ -31,6 +39,10 @@
 
 ###
 
+<hr>
+
+<h3> <strong> Contato: </strong> </h3>
+
 <div align="left">
   <a href="https://discord.com/users/541118838268231701" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -45,16 +57,5 @@
 
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=false&fontSize=100&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aysasc/Aysasc/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aysasc/Aysasc/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aysasc/Aysasc/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
